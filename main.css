@@ -17,19 +17,19 @@ body, input, textarea {
 }
 
 header {
-    padding: 16px 0;
+    padding: 20px 0;
     background-color: #182c61;
     color:#ecf0f1
 }
 
-header nav li{
-    display:incline;
+header nav li {
+    display: inline;
     margin-left: 16px;
-    font-size:18px;
+    font-size: 18px;
 }
 
 header nav li a {
-    color:#ecf0f1;
+    color: #ecf0f1;
     text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ header nav li a {
 header .container,
 section .container {
     display: flex;
-    aling-items: center;
+    align-items: center;
     justify-content: space-between;
 }
 
@@ -51,16 +51,16 @@ section .container {
 }
 
 .brands-list li {
-    display:inline;
+    display: inline;
     margin-right: 8px;
 }
 
 setion .container {
-    align-items:flex-start;
+    align-items: flex-start;
 }
 
 section {
-    padding:24px 0;
+    padding: 24px 0;
 }
 
 section h2 {
@@ -68,7 +68,7 @@ section h2 {
 }
 
 setion {
-    color:#182c61;
+    color: #182c61;
 }
 
 section p {
@@ -84,7 +84,7 @@ section p {
 }
 
 .social-links li {
-    display: incline;
+    display: inline;
     margin-right: 8px;
 }
 
@@ -123,7 +123,7 @@ form button {
     background-color: #182c61 ;
     color: #ecf0f1;
     border: none;
-    cursor:pointer
+    cursor: pointer
 }
 
 form button:houver {
@@ -131,12 +131,12 @@ form button:houver {
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #0313f0;
 }
 
 footer {
     background-color: #182c61;
-    color:#ecf0f1;
+    color: #ecf0f1;
     padding: 16px 0;
 }
 
